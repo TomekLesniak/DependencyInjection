@@ -1,3 +1,3 @@
 # Dependency Injection
 
-## This is a MVP that focus on dependency injection.
+## This is a MVP application that focus mostly on dependency injection.
